@@ -76,6 +76,3 @@ function checkAnswer(isCorrect) {
   if (isCorrect) showScene("win");
   else showScene("lose");
 }
-
-#FF5200
-#A2007D
